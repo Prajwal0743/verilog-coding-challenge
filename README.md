@@ -1,5 +1,4 @@
 # Rtl coding
-Verilog Practice and Learning Repository.
 contents
 Basic Modules: Simple designs such as logic gates, multiplexers, and demultiplexers.
 Sequential Circuits: Flip-flops, counters, and shift registers.
